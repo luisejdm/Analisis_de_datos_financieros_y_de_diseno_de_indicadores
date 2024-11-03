@@ -2,8 +2,8 @@ digraph G {
 	overlap=scale splines=true
 	edge [fontsize=12]
 	node [fillcolor="#cae6df" shape=circle style=filled]
-	Calidad [label=Calidad]
 	Confianza [label=Confianza]
+	Calidad [label=Calidad]
 	node [shape=box style=""]
 	Recomendaciones [label=Recomendaciones]
 	Resolucion_Problemas [label=Resolucion_Problemas]
