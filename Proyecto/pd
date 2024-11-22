@@ -4,10 +4,8 @@ digraph G {
 	node [fillcolor="#cae6df" shape=circle style=filled]
 	Confianza [label=Confianza]
 	node [shape=box style=""]
-	Ingreso_Promedio [label=Ingreso_Promedio]
 	Ingreso_Total [label=Ingreso_Total]
 	Retorno [label=Retorno]
 	Confianza -> Retorno [label=1.000]
-	Confianza -> Ingreso_Total [label="1417.905\np-val: 0.02"]
-	Confianza -> Ingreso_Promedio [label="-5.434\np-val: 0.16"]
+	Confianza -> Ingreso_Total [label="0.988\np-val: 0.00"]
 }
