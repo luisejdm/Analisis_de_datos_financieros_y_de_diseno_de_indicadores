@@ -7,5 +7,5 @@ digraph G {
 	Ingreso_Total [label=Ingreso_Total]
 	Retorno [label=Retorno]
 	Confianza -> Retorno [label=1.000]
-	Confianza -> Ingreso_Total [label="0.988\np-val: 0.00"]
+	Confianza -> Ingreso_Total [label="0.991\np-val: 1.00"]
 }
